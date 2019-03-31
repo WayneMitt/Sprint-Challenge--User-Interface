@@ -144,3 +144,59 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header nav a{
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 25px 50px 50px 0px;
+}
+
+.highway-image {
+    margin: 0px 0px 25px 0px;
+}
+
+#Box1 {
+    background: teal;
+}
+
+#Box2 {
+    background: gold;
+}
+
+#Box3 {
+    background: cadetblue;
+}
+
+#Box4 {
+    background: coral;
+}
+
+#Box5 {
+    background: crimson;
+}
+
+#Box6 {
+    background: forestgreen;
+}
+
+#Box7 {
+    background: darkorchid;
+}
+
+#Box8 {
+    background: hotpink;
+}
+
+#Box9 {
+    background: indigo;
+}
+
+#Box10 {
+    background: dodgerblue;
+}
