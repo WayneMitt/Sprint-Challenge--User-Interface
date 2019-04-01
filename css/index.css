@@ -157,7 +157,7 @@ nav {
     margin: 25px 50px 50px 0px;
 }
 
-.highway-image {
+.header-image {
     margin: 0px 0px 25px 0px;
 }
 
@@ -199,4 +199,37 @@ nav {
 
 #Box10 {
     background: dodgerblue;
+}
+
+header {
+    padding-bottom: 25px;
+}
+
+.about-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top: 1px dashed black;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: column;
+    width: 365px;
+    border-bottom: 1px dashed black;
+    margin: 25px 0px;
+    height: 450px;
+    justify-content: space-evenly;
+}
+
+.button {
+    background: none;
+    border: 2px solid black;
+    padding: 5px 20px;
+    width: 125px;
+    border-radius: 10px;
+}
+
+.about-content h2 {
+    margin-bottom: 0px;
 }
